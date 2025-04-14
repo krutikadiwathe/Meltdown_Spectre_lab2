@@ -95,9 +95,11 @@ All attacks, simulations, and security testing shown in this repository were per
 
 ## 👩‍💻 Author
 
-**Krutika Diwathe**  
-Master’s in Computer Science – Cleveland State University  
-Course: CIS 675 – Information Security  
+**Course:** CIS 675 - Information Security  
+**Instructor:** Sathish Kumar  
+**Student:** Krutika Bhushan Diwathe  
+**Semester:** Spring 2025  
+**Institution:** Cleveland State University   
 
 ---
 
