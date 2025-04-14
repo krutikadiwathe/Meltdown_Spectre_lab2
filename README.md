@@ -98,7 +98,6 @@ All attacks, simulations, and security testing shown in this repository were per
 **Krutika Diwathe**  
 Master’s in Computer Science – Cleveland State University  
 Course: CIS 675 – Information Security  
-GitHub: [github.com/krutika-dev](https://github.com/krutika-dev)
 
 ---
 
